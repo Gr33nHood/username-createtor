@@ -1,8 +1,8 @@
 command for one user 
-python3 username-createtor.py -n "joan doe"
+python3 username-creator.py -n "joan doe"
 
 command for a file with names 
-python3 username-createtor.py -f <filename>
+python3 username-creator.py -f <filename>
 
 -o for output 
-python3 username-createtor.py -f <filename> -o user-wordlist.txt
+python3 username-creator.py -f <filename> -o user-wordlist.txt
